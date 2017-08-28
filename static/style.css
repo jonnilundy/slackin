@@ -10,3 +10,6 @@ p.signin a, .active {
   color: #9552ef !important;
 }
 
+p.signin a:hover {
+  background: #fff !important;
+}
